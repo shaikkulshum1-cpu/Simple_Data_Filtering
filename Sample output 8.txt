@@ -1,0 +1,20 @@
+All Student Records:
+{'name': 'Rahul', 'age': 20, 'marks': 85, 'department': 'CSE'}
+{'name': 'Priya', 'age': 19, 'marks': 92, 'department': 'ECE'}
+{'name': 'Arjun', 'age': 21, 'marks': 65, 'department': 'CSE'}
+{'name': 'Sneha', 'age': 18, 'marks': 78, 'department': 'IT'}
+{'name': 'Kiran', 'age': 22, 'marks': 55, 'department': 'ECE'}
+
+Students with marks above 80:
+{'name': 'Rahul', 'age': 20, 'marks': 85, 'department': 'CSE'}
+{'name': 'Priya', 'age': 19, 'marks': 92, 'department': 'ECE'}
+
+Students older than 19:
+{'name': 'Rahul', 'age': 20, 'marks': 85, 'department': 'CSE'}
+{'name': 'Arjun', 'age': 21, 'marks': 65, 'department': 'CSE'}
+{'name': 'Kiran', 'age': 22, 'marks': 55, 'department': 'ECE'}
+
+Students in CSE Department:
+{'name': 'Rahul', 'age': 20, 'marks': 85, 'department': 'CSE'}
+{'name': 'Arjun', 'age': 21, 'marks': 65, 'department': 'CSE'}
+
